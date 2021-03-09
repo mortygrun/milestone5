@@ -18,7 +18,7 @@ To get the contents in this repository download the ZIP file with the green butt
 To run this program, make sure you have ```wget``` installed. 
 If this is done run the following command.
 ```bash
-./sample.sh
+./de_counter.sh
 ```
 This will get the most recent version of the Wikipedia page that is available and it will return the amount of occurrences.
 
