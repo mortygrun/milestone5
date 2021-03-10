@@ -1,5 +1,5 @@
 # Milestone 5
-This repository contains a script ```sample.sh``` that counts the occurrences of the word 'de' on the Dutch Rijksuniversiteit Groningen wikipedia.
+This repository contains a script ```de_counter.sh``` that counts the occurrences of the word 'de' on the Dutch Rijksuniversiteit Groningen wikipedia.
 
 ## Important
 
