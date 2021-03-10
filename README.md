@@ -20,7 +20,7 @@ If this is done run the following command.
 ```bash
 ./de_counter.sh
 ```
-This will get the most recent version of the Wikipedia page that is available and it will return the amount of occurrences.
+This will get the most recent version of the Wikipedia page that is available and it will return the amount of occurrences of the word 'de'.
 
 ## Outcome
 The outcome will vary, because the page can be updated.
